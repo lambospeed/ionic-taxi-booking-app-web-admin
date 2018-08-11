@@ -7,14 +7,9 @@
 ### *Driver Tracking. etc.
 
 
-[![Dockbit](https://img.shields.io/dockbit/DockbitStatus/health.svg?token=TvavttxFHJ4qhnKstDxrvBXM)]()
-[![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg)]()
-
 ### Sample Android [HERE](https://play.google.com/store/apps/details?id=com.taxihubnigeria.android)
 
 ### Sample Video [HERE](https://www.youtube.com/watch?v=LFlCkfd9SFw)
-
-### Contact Me To Set It Up or Include a missing feature [HERE](https://chinedu-website.firebaseapp.com/#/contact)
 
 ![](https://static-2.gumroad.com/res/gumroad/6181776888084/asset_previews/f8174fd18d62903aad2d0b147c16164a/retina/Untitled.jpeg)
 
